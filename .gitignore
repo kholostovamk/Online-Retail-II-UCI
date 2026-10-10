@@ -1,0 +1,12 @@
+# Raw data is too large for GitHub — download it yourself (see README)
+data/raw/
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
