@@ -1,6 +1,9 @@
 # Raw data is too large for GitHub — download it yourself (see README)
 data/raw/
 
+# Generated files (train/test split, matrix) — rebuilt from the raw data
+data/processed/
+
 # macOS
 .DS_Store
 
