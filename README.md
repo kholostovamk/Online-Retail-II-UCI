@@ -63,6 +63,6 @@ I worked alone, so every task is owned by me. The peer evaluation form (C3) does
 | 2026-10-11 | J2: memo for Sarah | Margarita Kholostova | `776650a`, `dd244fa` | Done |
 | 2026-10-11 | J3: slides | Margarita Kholostova | Canvas | Done |
 | 2026-10-12 | DE6 decision note (Stretch, skipped) and reflection | Margarita Kholostova | `689127f` | Done |
-| — | ML7 (Stretch, optional for individuals) | — | — | Not done |
+| — | DE6 & ML7 (Stretch, optional for individuals) | — | — | Not done |
 
 Signed: Margarita Kholostova
