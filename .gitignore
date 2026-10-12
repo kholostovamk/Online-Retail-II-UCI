@@ -13,3 +13,6 @@ __pycache__/
 .ipynb_checkpoints/
 .venv/
 venv/
+
+# Word lock files
+~$*
